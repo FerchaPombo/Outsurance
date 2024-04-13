@@ -20,6 +20,10 @@ Age of onset mental health disorders:
 
 <img width="1270" alt="wantedbutnotrecieved" src="https://github.com/FerchaPombo/Outsurance/assets/129217509/b1d4c398-c61b-45da-84e8-934b24bd9551">
 
+Some reasons people dont get treated: 
+![trevor_graph_04-AC3](https://github.com/FerchaPombo/Outsurance/assets/129217509/99d32cd0-184f-46ad-afeb-f7b740f54db5)
+
+
 ## 3 main questions to solve
 
 1. What is the core issue we're addressing as a company?
@@ -30,22 +34,22 @@ Age of onset mental health disorders:
 
 3. ### How do we measure our progress and effectiveness in solving this issue?
 
-* Ensuring Progress:
+* #### Ensuring Progress:
 Our progress will be evident through tangible improvements in users' mental health, observed during and after utilizing the app. It's essential to note that all data collected will remain internal and solely for personalized service provision. No information will be disclosed without the explicit consent of the user.
 
-* User Feedback and Well-being Tracking:
+* #### User Feedback and Well-being Tracking:
 As part of our approach, users will be prompted to share their daily mood upon logging in. This pop-up questionnaire allows users to provide brief or detailed responses regarding their emotional state. By delving deeper into their responses, we gain insights into their well-being journey. Sample questions include inquiries about positive or negative experiences throughout the day, goal achievements, and barriers hindering progress. This data enables us to tailor our services to individual needs, offering personalized support and encouragement to foster improvement.
 
-* Effective Therapist Matching:
+* #### Effective Therapist Matching:
 Effective therapist matching is pivotal to our success. Upon sign-up, users will complete a comprehensive questionnaire covering various aspects of their background, mental health history, and cultural context. This information serves as a foundation for pairing users with suitable therapists, reducing the time spent searching for an appropriate match.
 
-* Continuous Feedback Loop:
+* #### Continuous Feedback Loop:
 Feedback is integral to our ongoing refinement. After each consultation, both clients and therapists will provide detailed feedback through a structured form. This process ensures the safety and effectiveness of our platform, addressing any issues promptly and enhancing user experience.
 
-* Accessibility and Sponsorship:
+* #### Accessibility and Sponsorship:
 Our success extends to ensuring accessibility for all, regardless of financial means. Through sponsorships and sliding-scale plans, individuals without financial stability can access our services. Monitoring the effectiveness of these initiatives allows us to adapt strategies and broaden accessibility.
 
-* Expansion of Therapist Network:
+* #### Expansion of Therapist Network:
 The growth of our verified therapist network is indicative of our impact. As our platform gains traction, more therapists will join, attracted by the community ethos and opportunities to give back. We remain proactive in incentivizing participation and addressing any challenges, ensuring a sustainable model for both therapists and users alike.
 
 
@@ -84,7 +88,7 @@ The data collected through daily mood assessments and detailed feedback provides
 - Analyze demographic data regularly to identify any disparities in access to mental health services.
 - Use demographic insights to tailor outreach efforts, content, and support services to better meet the needs of diverse user groups.
 - Periodically update the demographic questionnaire to capture evolving user demographics and preferences.
-![trevor_graph_04-AC3](https://github.com/FerchaPombo/Outsurance/assets/129217509/99d32cd0-184f-46ad-afeb-f7b740f54db5)
+
 
 * **Mental Health Improvement:**
 
