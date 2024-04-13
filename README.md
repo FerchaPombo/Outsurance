@@ -105,7 +105,6 @@ The data collected through daily mood assessments and detailed feedback provides
 
 ![depressive-symptoms-across-us-population](https://github.com/FerchaPombo/Outsurance/assets/129217509/9b4d3e47-3f79-4c7e-8707-8d034c6e5019)
   
-![Onset-age-of-depression_1565 (1)](https://github.com/FerchaPombo/Outsurance/assets/129217509/739cf6cf-0f24-4a38-b635-dd579dd313d2)
 
 
 * **Symptom Severity Before and After Treatment:**
@@ -116,6 +115,7 @@ The data collected through daily mood assessments and detailed feedback provides
 - Store assessment data securely in a centralized database for analysis and comparison.
 - Use statistical analysis techniques to compare pre- and post-treatment symptom severity scores and evaluate therapy effectiveness.
 - Provide therapists with regular feedback on their clients' progress based on the symptom severity data.
+
 
 #### ELT Strategy for Building a Data Pipeline for Outsurance:
 
