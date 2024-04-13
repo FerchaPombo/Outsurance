@@ -1,5 +1,13 @@
+![logo](https://github.com/FerchaPombo/Outsurance/assets/129217509/d28b4083-3a96-4b40-b778-97e0c8bac456)
 # Outsurance Data Analytic Research Plan
 
+
+Our approach to data collection and usage is founded on the belief that insights gleaned from user data are pivotal in shaping our platform's effectiveness and improving mental health care accessibility. Through meticulous data collection protocols and advanced analysis methods, we aim to gain profound insights into users' mental health needs, experiences, and progress.
+
+By leveraging robust data collection mechanisms, we can systematically track and measure the impact of our platform on users' well-being. This includes monitoring trends in mental health improvement, identifying areas for intervention, and evaluating the effectiveness of our support services. These insights serve as the cornerstone for strategic decision-making, enabling us to prioritize enhancements and tailor our offerings to better serve the diverse needs of our user community.
+
+Crucially, our commitment to data privacy and security underscores every facet of our data collection and usage practices. We adhere to stringent standards to safeguard user information, ensuring that all data is handled responsibly, ethically, and in compliance with regulatory requirements. Upholding the highest standards of data privacy instills trust among our users and underscores our unwavering dedication to supporting their mental health journey.
+![welcome](https://github.com/FerchaPombo/Outsurance/assets/129217509/4f0dc9d7-52d6-4bd1-b3d6-cb67bb6a82af)
 
 ## Problematic  
 
@@ -59,7 +67,6 @@ The data collected through daily mood assessments and detailed feedback provides
 
 * **Demographics:**
 
-Develop a comprehensive questionnaire to gather demographic information during the user registration process.
 - Include questions about age, gender, language preferences, cultural background, and socioeconomic status.
 - Ensure data privacy and security by implementing robust encryption protocols and obtaining user consent for data collection.
 - Analyze demographic data regularly to identify any disparities in access to mental health services.
