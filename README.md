@@ -20,6 +20,7 @@ Age of onset mental health disorders:
 
 <img width="1270" alt="wantedbutnotrecieved" src="https://github.com/FerchaPombo/Outsurance/assets/129217509/b1d4c398-c61b-45da-84e8-934b24bd9551">
 
+## 3 main questions to solve
 
 1. What is the core issue we're addressing as a company?
 - Accessibility to mental health care is a significant challenge for many individuals.
@@ -27,7 +28,7 @@ Age of onset mental health disorders:
 2. How are we proposing to address this challenge?
 - Our solution involves implementing a sliding scale-based access to insurance, aiming to make mental health care more accessible to a wider range of individuals.
 
-### How do we measure our progress and effectiveness in solving this issue?
+3. ### How do we measure our progress and effectiveness in solving this issue?
 
 * Ensuring Progress:
 Our progress will be evident through tangible improvements in users' mental health, observed during and after utilizing the app. It's essential to note that all data collected will remain internal and solely for personalized service provision. No information will be disclosed without the explicit consent of the user.
