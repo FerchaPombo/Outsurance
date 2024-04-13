@@ -7,6 +7,7 @@ Our approach to data collection and usage is founded on the belief that insights
 By leveraging robust data collection mechanisms, we can systematically track and measure the impact of our platform on users' well-being. This includes monitoring trends in mental health improvement, identifying areas for intervention, and evaluating the effectiveness of our support services. These insights serve as the cornerstone for strategic decision-making, enabling us to prioritize enhancements and tailor our offerings to better serve the diverse needs of our user community.
 
 Crucially, our commitment to data privacy and security underscores every facet of our data collection and usage practices. We adhere to stringent standards to safeguard user information, ensuring that all data is handled responsibly, ethically, and in compliance with regulatory requirements. Upholding the highest standards of data privacy instills trust among our users and underscores our unwavering dedication to supporting their mental health journey.
+
 ![welcome](https://github.com/FerchaPombo/Outsurance/assets/129217509/4f0dc9d7-52d6-4bd1-b3d6-cb67bb6a82af)
 
 ## Problematic  
@@ -37,6 +38,7 @@ Our success extends to ensuring accessibility for all, regardless of financial m
 * Expansion of Therapist Network:
 The growth of our verified therapist network is indicative of our impact. As our platform gains traction, more therapists will join, attracted by the community ethos and opportunities to give back. We remain proactive in incentivizing participation and addressing any challenges, ensuring a sustainable model for both therapists and users alike.
 
+<img width="1270" alt="wantedbutnotrecieved" src="https://github.com/FerchaPombo/Outsurance/assets/129217509/b1d4c398-c61b-45da-84e8-934b24bd9551">
 
 ### Stakeholders
 
@@ -64,6 +66,7 @@ The data collected through daily mood assessments and detailed feedback provides
 - Regularly review the time-to-service metrics to identify trends, bottlenecks, and areas for improvement.
 - Collaborate with the technical team to optimize platform performance and response times based on these findings.
 - Conduct periodic user surveys or interviews to gather qualitative feedback on their experience with the time to service.
+![timeline](https://github.com/FerchaPombo/Outsurance/assets/129217509/df63e921-69c5-4fba-99b4-bc18e051d6c3)
 
 * **Demographics:**
 
@@ -72,6 +75,7 @@ The data collected through daily mood assessments and detailed feedback provides
 - Analyze demographic data regularly to identify any disparities in access to mental health services.
 - Use demographic insights to tailor outreach efforts, content, and support services to better meet the needs of diverse user groups.
 - Periodically update the demographic questionnaire to capture evolving user demographics and preferences.
+![trevor_graph_04-AC3](https://github.com/FerchaPombo/Outsurance/assets/129217509/99d32cd0-184f-46ad-afeb-f7b740f54db5)
 
 * **Mental Health Improvement:**
 
@@ -82,7 +86,7 @@ The data collected through daily mood assessments and detailed feedback provides
 - Collaborate with mental health professionals to interpret the data and identify strategies for optimizing user support.
 - Provide users with personalized feedback based on their mental health assessment results, offering resources and recommendations for improvement.
 
-* **Primary Health Concern:**
+* **Primary Health Concerns:**
 
 - Incorporate prompts or questionnaires during user interactions to identify their primary mental health concerns.
 - Develop a standardized framework for categorizing and analyzing users' primary health concerns.
@@ -141,3 +145,5 @@ Once the data pipeline is production-ready, data tables will be shared with down
 [Columbia Edu database](https://www.tc.columbia.edu/go-lead/lgbtq-ngo-database/)
 [Questionare](https://www.betterhelp.com/get-started/?go=true&transaction_id=1029582d1edd773ffec4c088dfe7c7&utm_source=affiliate&utm_campaign=1339&utm_medium=macOS&utm_content=&utm_term=top10-lgbtq&not_found=1&gor=start)
 [straight vs queer](https://jamanetwork.com/journals/jamapsychiatry/fullarticle/205418#:~:text=Results%20Gay%2C%20lesbian%2C%20and%20bisexual,%2C%202.3%2D10.9)%2C%20other)
+[time to time](https://youthsmart.ca/mental-health-vs-mental-illness/)
+[Our world in data](https://ourworldindata.org/mental-health)
