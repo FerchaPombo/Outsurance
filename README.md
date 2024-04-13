@@ -10,6 +10,8 @@ Crucially, our commitment to data privacy and security underscores every facet o
 
 ![welcome](https://github.com/FerchaPombo/Outsurance/assets/129217509/4f0dc9d7-52d6-4bd1-b3d6-cb67bb6a82af)
 
+<img width="819" alt="anxietydepresionbasedon anxiety" src="https://github.com/FerchaPombo/Outsurance/assets/129217509/43b456ad-e536-4347-be3f-c5983a20e6ed">
+
 ## Problematic  
 
 1. What is the core issue we're addressing as a company?
@@ -85,6 +87,7 @@ The data collected through daily mood assessments and detailed feedback provides
 - Aggregate and analyze data from mood assessments and surveys to track overall mental health improvement trends.
 - Collaborate with mental health professionals to interpret the data and identify strategies for optimizing user support.
 - Provide users with personalized feedback based on their mental health assessment results, offering resources and recommendations for improvement.
+  
 
 * **Primary Health Concerns:**
 
@@ -94,6 +97,9 @@ The data collected through daily mood assessments and detailed feedback provides
 - Utilize natural language processing (NLP) algorithms to analyze free-text responses and extract key themes and concerns.
 - Regularly review primary health concern data to identify emerging trends and prioritize support initiatives.
 - Adjust platform content, resources, and support services based on the identified primary health concerns to better meet users' needs.
+
+  ![depressive-symptoms-across-us-population](https://github.com/FerchaPombo/Outsurance/assets/129217509/9b4d3e47-3f79-4c7e-8707-8d034c6e5019)
+
 
 * **Symptom Severity Before and After Treatment:**
 
@@ -147,3 +153,4 @@ Once the data pipeline is production-ready, data tables will be shared with down
 [straight vs queer](https://jamanetwork.com/journals/jamapsychiatry/fullarticle/205418#:~:text=Results%20Gay%2C%20lesbian%2C%20and%20bisexual,%2C%202.3%2D10.9)%2C%20other)
 [time to time](https://youthsmart.ca/mental-health-vs-mental-illness/)
 [Our world in data](https://ourworldindata.org/mental-health)
+[statistics](https://www.statista.com/search/?q=lgbtq%2B+mental+health&Search=&p=1)
