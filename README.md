@@ -119,7 +119,7 @@ The data collected through daily mood assessments and detailed feedback provides
 - Provide therapists with regular feedback on their clients' progress based on the symptom severity data.
 
 
-#### ELT Strategy for Building a Data Pipeline for Outsurance:
+## ELT Strategy for Building a Data Pipeline for Outsurance:
 
 ELT, or Extract, Load, Transform, describes the process of integrating data by extracting it from a source, loading it into a target repository, and then transforming it for downstream use, typically in a cloud-based data warehouse.
 
