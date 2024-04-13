@@ -57,9 +57,8 @@ After the appropriate data collection, it will be analyzed and shared with the A
 
 The data collected through daily mood assessments and detailed feedback provides valuable insights into users' mental health progression. By tracking users' responses over time, we can quantitatively measure improvements or setbacks in their well-being. Analyzing patterns in users' experiences, accomplishments, and obstacles empowers us to provide tailored support. Additionally, statistics on successful therapist matches, user referrals, and consultation feedback serve as key indicators of platform effectiveness and user satisfaction. Monitoring metrics related to sponsorships and sliding-scale plans allows us to evaluate accessibility and efficacy in reaching economically disadvantaged individuals. Furthermore, tracking the growth of our therapist network informs strategic decisions to sustain and expand our initiatives. Ultimately, these statistics play a pivotal role in guiding decision-making and driving continuous improvement to meet the diverse needs of our users.
 
-### Data Pipeline and Structure
 
-#### Detailed Plan for Data Collection and Usage:
+### Plan for Data Collection and Usage:
 
 * **Time to Service:**
 
@@ -98,7 +97,9 @@ The data collected through daily mood assessments and detailed feedback provides
 - Regularly review primary health concern data to identify emerging trends and prioritize support initiatives.
 - Adjust platform content, resources, and support services based on the identified primary health concerns to better meet users' needs.
 
-  ![depressive-symptoms-across-us-population](https://github.com/FerchaPombo/Outsurance/assets/129217509/9b4d3e47-3f79-4c7e-8707-8d034c6e5019)
+![depressive-symptoms-across-us-population](https://github.com/FerchaPombo/Outsurance/assets/129217509/9b4d3e47-3f79-4c7e-8707-8d034c6e5019)
+  
+![Onset-age-of-depression_1565 (1)](https://github.com/FerchaPombo/Outsurance/assets/129217509/739cf6cf-0f24-4a38-b635-dd579dd313d2)
 
 
 * **Symptom Severity Before and After Treatment:**
