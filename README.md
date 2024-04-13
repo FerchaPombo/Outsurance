@@ -12,7 +12,9 @@ Crucially, our commitment to data privacy and security underscores every facet o
 
 
 ## Problematic  
+Percentage of U.S. LGBTQ youth who reported feelings of anxiety or depression in 2022, by race and ethnicity:
 <img width="819" alt="anxietydepresionbasedon anxiety" src="https://github.com/FerchaPombo/Outsurance/assets/129217509/43b456ad-e536-4347-be3f-c5983a20e6ed">
+
 
 
 1. What is the core issue we're addressing as a company?
