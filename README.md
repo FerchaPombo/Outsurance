@@ -17,6 +17,7 @@ Percentage of U.S. LGBTQ youth who reported feelings of anxiety or depression in
 Age of onset mental health disorders: 
 ![Onset-age-of-depression_1565 (1)](https://github.com/FerchaPombo/Outsurance/assets/129217509/b021bde1-380b-4b5c-b4e4-581af93219d2)
 
+<img width="1270" alt="wantedbutnotrecieved" src="https://github.com/FerchaPombo/Outsurance/assets/129217509/b1d4c398-c61b-45da-84e8-934b24bd9551">
 
 
 1. What is the core issue we're addressing as a company?
@@ -45,7 +46,7 @@ Our success extends to ensuring accessibility for all, regardless of financial m
 * Expansion of Therapist Network:
 The growth of our verified therapist network is indicative of our impact. As our platform gains traction, more therapists will join, attracted by the community ethos and opportunities to give back. We remain proactive in incentivizing participation and addressing any challenges, ensuring a sustainable model for both therapists and users alike.
 
-<img width="1270" alt="wantedbutnotrecieved" src="https://github.com/FerchaPombo/Outsurance/assets/129217509/b1d4c398-c61b-45da-84e8-934b24bd9551">
+
 
 ### Stakeholders
 
