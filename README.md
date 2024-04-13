@@ -153,10 +153,10 @@ Once the data pipeline is production-ready, data tables will be shared with down
 
 ### Resources 
 
-[](https://de.statista.com/infografik/27440/anteil-der-befragten-die-ihre-sexuelle-orientierung-wie-folgt-angeben-nach-geburtsjahr/)
-[](https://www.psychomeda.de/psychotherapie/was-kostet-psychotherapie.html#:~:text=Je%20nach%20Therapieform%2C%20St%C3%B6rung%20und%20Therapieziel%20betr%C3%A4gt%20die,entspricht%20und%20zwischen%2050%20und%20150%20EUR%20kostet.)
-[]( https://de.statista.com/statistik/daten/studie/370558/umfrage/monatliche-nettoloehne-und-gehaelter-je-arbeitnehmer-in-deutschland/)
-[](https://de.statista.com/statistik/daten/studie/370558/umfrage/monatliche-nettoloehne-und-gehaelter-je-arbeitnehmer-in-deutschland/)
+[Stats](https://de.statista.com/infografik/27440/anteil-der-befragten-die-ihre-sexuelle-orientierung-wie-folgt-angeben-nach-geburtsjahr/)
+[stats](https://www.psychomeda.de/psychotherapie/was-kostet-psychotherapie.html#:~:text=Je%20nach%20Therapieform%2C%20St%C3%B6rung%20und%20Therapieziel%20betr%C3%A4gt%20die,entspricht%20und%20zwischen%2050%20und%20150%20EUR%20kostet.)
+[stats]( https://de.statista.com/statistik/daten/studie/370558/umfrage/monatliche-nettoloehne-und-gehaelter-je-arbeitnehmer-in-deutschland/)
+[stats](https://de.statista.com/statistik/daten/studie/370558/umfrage/monatliche-nettoloehne-und-gehaelter-je-arbeitnehmer-in-deutschland/)
 [How population identifies in germany](https://de.statista.com/infografik/27440/anteil-der-befragten-die-ihre-sexuelle-orientierung-wie-folgt-angeben-nach-geburtsjahr/)
 [Data Strategy plan](https://www.phdata.io/blog/data-strategy-framework-healthcare-providers/)
 [Data Platform Architecture](https://www.y42.com/blog/data-pipeline-architecture?utm_term=&utm_campaign=Y42+%7C+Performance+Max+%7C+Leads&utm_source=adwords&utm_medium=ppc&hsa_acc=6839813425&hsa_cam=20808672417&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=Cj0KCQjw2uiwBhCXARIsACMvIU0vUIGabeqYviUciiA3NXk4DtwFDNUvuoyrqOMmw_vAgxCj6xf3igcaAhFUEALw_wcB)
