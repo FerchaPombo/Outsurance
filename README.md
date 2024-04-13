@@ -151,19 +151,3 @@ Notifications will be configured to alert designated users of the data pipeline'
 Deploy Data Tables for Downstream Applications:
 Once the data pipeline is production-ready, data tables will be shared with downstream applications and users via reverse ETL, allowing them to build visualizations based on a single source of truth - the data pipeline.
 
-### Resources 
-
-[Stats](https://de.statista.com/infografik/27440/anteil-der-befragten-die-ihre-sexuelle-orientierung-wie-folgt-angeben-nach-geburtsjahr/)
-[stats](https://www.psychomeda.de/psychotherapie/was-kostet-psychotherapie.html#:~:text=Je%20nach%20Therapieform%2C%20St%C3%B6rung%20und%20Therapieziel%20betr%C3%A4gt%20die,entspricht%20und%20zwischen%2050%20und%20150%20EUR%20kostet.)
-[stats]( https://de.statista.com/statistik/daten/studie/370558/umfrage/monatliche-nettoloehne-und-gehaelter-je-arbeitnehmer-in-deutschland/)
-[stats](https://de.statista.com/statistik/daten/studie/370558/umfrage/monatliche-nettoloehne-und-gehaelter-je-arbeitnehmer-in-deutschland/)
-[How population identifies in germany](https://de.statista.com/infografik/27440/anteil-der-befragten-die-ihre-sexuelle-orientierung-wie-folgt-angeben-nach-geburtsjahr/)
-[Data Strategy plan](https://www.phdata.io/blog/data-strategy-framework-healthcare-providers/)
-[Data Platform Architecture](https://www.y42.com/blog/data-pipeline-architecture?utm_term=&utm_campaign=Y42+%7C+Performance+Max+%7C+Leads&utm_source=adwords&utm_medium=ppc&hsa_acc=6839813425&hsa_cam=20808672417&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=Cj0KCQjw2uiwBhCXARIsACMvIU0vUIGabeqYviUciiA3NXk4DtwFDNUvuoyrqOMmw_vAgxCj6xf3igcaAhFUEALw_wcB)
-[Queer vs. Straight](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7876969/)
-[Columbia Edu database](https://www.tc.columbia.edu/go-lead/lgbtq-ngo-database/)
-[Questionare](https://www.betterhelp.com/get-started/?go=true&transaction_id=1029582d1edd773ffec4c088dfe7c7&utm_source=affiliate&utm_campaign=1339&utm_medium=macOS&utm_content=&utm_term=top10-lgbtq&not_found=1&gor=start)
-[straight vs queer](https://jamanetwork.com/journals/jamapsychiatry/fullarticle/205418#:~:text=Results%20Gay%2C%20lesbian%2C%20and%20bisexual,%2C%202.3%2D10.9)%2C%20other)
-[time to time](https://youthsmart.ca/mental-health-vs-mental-illness/)
-[Our world in data](https://ourworldindata.org/mental-health)
-[statistics](https://www.statista.com/search/?q=lgbtq%2B+mental+health&Search=&p=1)
