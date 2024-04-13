@@ -10,9 +10,10 @@ Crucially, our commitment to data privacy and security underscores every facet o
 
 ![welcome](https://github.com/FerchaPombo/Outsurance/assets/129217509/4f0dc9d7-52d6-4bd1-b3d6-cb67bb6a82af)
 
-<img width="819" alt="anxietydepresionbasedon anxiety" src="https://github.com/FerchaPombo/Outsurance/assets/129217509/43b456ad-e536-4347-be3f-c5983a20e6ed">
 
 ## Problematic  
+<img width="819" alt="anxietydepresionbasedon anxiety" src="https://github.com/FerchaPombo/Outsurance/assets/129217509/43b456ad-e536-4347-be3f-c5983a20e6ed">
+
 
 1. What is the core issue we're addressing as a company?
 - Accessibility to mental health care is a significant challenge for many individuals.
