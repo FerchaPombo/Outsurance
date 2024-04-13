@@ -1,13 +1,35 @@
-# Outsurance Data Analytic Research and Plan
-Facts :
+# Outsurance Data Analytic Research Plan
 
-### Project Goals 
-Doing the math (Business modell)
-In Germany, 8% identify as LGBTIQ+ - so we have around 6.4 Million people. Let’s say we can reach 5% of them, we have 0.05 * 6.4 Million = 320.000 people.
-Let’s say 5% need a therapy per year ==> an average therapy takes 50 sessions with an average cost of 120€ per hour = 5 / 100 * 320.000* 50 * 120€ = 96 Mio €. Personal costs (app developers, marketing, IT-support, …) : 12 * 70.000€ salary per year = 840.000€
-Server costs: 10.000€/month * 12 = 120.000€
-Total per year: 97 Mio €
-Per year and user: 97 Mio € / 320.000 users = 303€/user ==> per month: 25€ / user (average net-salary per employee in Germany: 2.425€/month ==> so we are talking about 1% of your net salary….) 
+
+## Problematic  
+
+1. What is the core issue we're addressing as a company?
+- Accessibility to mental health care is a significant challenge for many individuals.
+
+2. How are we proposing to address this challenge?
+- Our solution involves implementing a sliding scale-based access to insurance, aiming to make mental health care more accessible to a wider range of individuals.
+
+### How do we measure our progress and effectiveness in solving this issue?
+
+* Ensuring Progress:
+Our progress will be evident through tangible improvements in users' mental health, observed during and after utilizing the app. It's essential to note that all data collected will remain internal and solely for personalized service provision. No information will be disclosed without the explicit consent of the user.
+
+* User Feedback and Well-being Tracking:
+As part of our approach, users will be prompted to share their daily mood upon logging in. This pop-up questionnaire allows users to provide brief or detailed responses regarding their emotional state. By delving deeper into their responses, we gain insights into their well-being journey. Sample questions include inquiries about positive or negative experiences throughout the day, goal achievements, and barriers hindering progress. This data enables us to tailor our services to individual needs, offering personalized support and encouragement to foster improvement.
+
+* Effective Therapist Matching:
+Effective therapist matching is pivotal to our success. Upon sign-up, users will complete a comprehensive questionnaire covering various aspects of their background, mental health history, and cultural context. This information serves as a foundation for pairing users with suitable therapists, reducing the time spent searching for an appropriate match.
+
+* Continuous Feedback Loop:
+Feedback is integral to our ongoing refinement. After each consultation, both clients and therapists will provide detailed feedback through a structured form. This process ensures the safety and effectiveness of our platform, addressing any issues promptly and enhancing user experience.
+
+* Accessibility and Sponsorship:
+Our success extends to ensuring accessibility for all, regardless of financial means. Through sponsorships and sliding-scale plans, individuals without financial stability can access our services. Monitoring the effectiveness of these initiatives allows us to adapt strategies and broaden accessibility.
+
+* Expansion of Therapist Network:
+The growth of our verified therapist network is indicative of our impact. As our platform gains traction, more therapists will join, attracted by the community ethos and opportunities to give back. We remain proactive in incentivizing participation and addressing any challenges, ensuring a sustainable model for both therapists and users alike.
+
+
 ### Stakeholders
 
 The primary stakeholders involved in the data collection, analysis, and usage within the company are dedicated to upholding user privacy as a core value. All data collected will be treated with sensitivity and confidentiality, accessible only to the company's management team. Following data collection, analysis, transformation, and processing, insights will be leveraged, with continued emphasis on user privacy, to identify areas of concern and promote awareness surrounding mental health, intersectionality, and accessibility, particularly for the queer population in Germany. A key objective of analyzing this data is to ensure that the funding for our services remains accessible to everyone, aligning with our commitment to inclusivity and equity.
@@ -15,17 +37,63 @@ After the appropriate data collection, it will be analyzed and shared with the A
 
 ### Discovery:
 
-Users' Needs: Our users are seeking assistance, a sense of community, and tangible results. They require swift and effective access to therapy for mental health improvement. The platform must offer an accessible, user-friendly interface where individuals can easily find the right therapist based on their unique needs, backgrounds, spoken languages, and other demographic factors collected.
+**Users' Needs:** Our users are seeking assistance, a sense of community, and tangible results. They require swift and effective access to therapy for mental health improvement. The platform must offer an accessible, user-friendly interface where individuals can easily find the right therapist based on their unique needs, backgrounds, spoken languages, and other demographic factors collected.
 
-Data Requirements: Data will primarily originate from users and therapists, with the database being the target repository. This data will fuel the creation of algorithms designed to provide personalized assistance to individuals based on their specific needs. It's imperative that data collection is conducted with the full consent of each user, prioritizing privacy concerns throughout the process.
+**Data Requirements:** Data will primarily originate from users and therapists, with the database being the target repository. This data will fuel the creation of algorithms designed to provide personalized assistance to individuals based on their specific needs. It's imperative that data collection is conducted with the full consent of each user, prioritizing privacy concerns throughout the process.
 
-Data Quality: Our focus is on obtaining high-quality, personalized data directly from users, avoiding assumptions and nuances that could compromise the integrity of the information. We acknowledge the risks associated with making assumptions on behalf of the company and are committed to mitigating them by ensuring that data collection is accurate, precise, and respectful of user privacy.
+**Data Quality:**  Our focus is on obtaining high-quality, personalized data directly from users, avoiding assumptions and nuances that could compromise the integrity of the information. We acknowledge the risks associated with making assumptions on behalf of the company and are committed to mitigating them by ensuring that data collection is accurate, precise, and respectful of user privacy.
 
 The data collected through daily mood assessments and detailed feedback provides valuable insights into users' mental health progression. By tracking users' responses over time, we can quantitatively measure improvements or setbacks in their well-being. Analyzing patterns in users' experiences, accomplishments, and obstacles empowers us to provide tailored support. Additionally, statistics on successful therapist matches, user referrals, and consultation feedback serve as key indicators of platform effectiveness and user satisfaction. Monitoring metrics related to sponsorships and sliding-scale plans allows us to evaluate accessibility and efficacy in reaching economically disadvantaged individuals. Furthermore, tracking the growth of our therapist network informs strategic decisions to sustain and expand our initiatives. Ultimately, these statistics play a pivotal role in guiding decision-making and driving continuous improvement to meet the diverse needs of our users.
 
 ### Data Pipeline and Structure
 
-ELT Strategy for Building a Data Pipeline for Outsurance:
+#### Detailed Plan for Data Collection and Usage:
+
+* **Time to Service:**
+
+- Implement a system that timestamps user requests for mental health support and tracks the time until they receive assistance.
+- Utilize a centralized database to record and analyze this data, ensuring accuracy and reliability.
+- Regularly review the time-to-service metrics to identify trends, bottlenecks, and areas for improvement.
+- Collaborate with the technical team to optimize platform performance and response times based on these findings.
+- Conduct periodic user surveys or interviews to gather qualitative feedback on their experience with the time to service.
+
+* **Demographics:**
+
+Develop a comprehensive questionnaire to gather demographic information during the user registration process.
+- Include questions about age, gender, language preferences, cultural background, and socioeconomic status.
+- Ensure data privacy and security by implementing robust encryption protocols and obtaining user consent for data collection.
+- Analyze demographic data regularly to identify any disparities in access to mental health services.
+- Use demographic insights to tailor outreach efforts, content, and support services to better meet the needs of diverse user groups.
+- Periodically update the demographic questionnaire to capture evolving user demographics and preferences.
+
+* **Mental Health Improvement:**
+
+- Integrate regular mood assessments and mental health tracking features into the platform.
+- Design surveys or questionnaires to measure users' well-being, coping mechanisms, and perceived improvements over time.
+- Utilize standardized mental health assessment tools to quantify changes in users' mental health status.
+- Aggregate and analyze data from mood assessments and surveys to track overall mental health improvement trends.
+- Collaborate with mental health professionals to interpret the data and identify strategies for optimizing user support.
+- Provide users with personalized feedback based on their mental health assessment results, offering resources and recommendations for improvement.
+
+* **Primary Health Concern:**
+
+- Incorporate prompts or questionnaires during user interactions to identify their primary mental health concerns.
+- Develop a standardized framework for categorizing and analyzing users' primary health concerns.
+- Train support staff to engage users in conversations about their specific mental health challenges and needs.
+- Utilize natural language processing (NLP) algorithms to analyze free-text responses and extract key themes and concerns.
+- Regularly review primary health concern data to identify emerging trends and prioritize support initiatives.
+- Adjust platform content, resources, and support services based on the identified primary health concerns to better meet users' needs.
+
+* **Symptom Severity Before and After Treatment:**
+
+- Implement pre- and post-treatment assessments to measure changes in symptom severity.
+- Develop standardized assessment tools or surveys to quantify the severity of users' symptoms before and after therapy sessions.
+- Ensure that therapists are trained to administer and interpret the assessment tools accurately.
+- Store assessment data securely in a centralized database for analysis and comparison.
+- Use statistical analysis techniques to compare pre- and post-treatment symptom severity scores and evaluate therapy effectiveness.
+- Provide therapists with regular feedback on their clients' progress based on the symptom severity data.
+
+#### ELT Strategy for Building a Data Pipeline for Outsurance:
 
 ELT, or Extract, Load, Transform, describes the process of integrating data by extracting it from a source, loading it into a target repository, and then transforming it for downstream use, typically in a cloud-based data warehouse.
 
@@ -53,48 +121,6 @@ Notifications will be configured to alert designated users of the data pipeline'
 Deploy Data Tables for Downstream Applications:
 Once the data pipeline is production-ready, data tables will be shared with downstream applications and users via reverse ETL, allowing them to build visualizations based on a single source of truth - the data pipeline.
 
-#### Detailed Plan for Data Collection and Usage:
-
-Time to Service:
-
-Implement a system that timestamps user requests for mental health support and tracks the time until they receive assistance.
-Utilize a centralized database to record and analyze this data, ensuring accuracy and reliability.
-Regularly review the time-to-service metrics to identify trends, bottlenecks, and areas for improvement.
-Collaborate with the technical team to optimize platform performance and response times based on these findings.
-Conduct periodic user surveys or interviews to gather qualitative feedback on their experience with the time to service.
-Demographics:
-
-Develop a comprehensive questionnaire to gather demographic information during the user registration process.
-Include questions about age, gender, language preferences, cultural background, and socioeconomic status.
-Ensure data privacy and security by implementing robust encryption protocols and obtaining user consent for data collection.
-Analyze demographic data regularly to identify any disparities in access to mental health services.
-Use demographic insights to tailor outreach efforts, content, and support services to better meet the needs of diverse user groups.
-Periodically update the demographic questionnaire to capture evolving user demographics and preferences.
-Mental Health Improvement:
-
-Integrate regular mood assessments and mental health tracking features into the platform.
-Design surveys or questionnaires to measure users' well-being, coping mechanisms, and perceived improvements over time.
-Utilize standardized mental health assessment tools to quantify changes in users' mental health status.
-Aggregate and analyze data from mood assessments and surveys to track overall mental health improvement trends.
-Collaborate with mental health professionals to interpret the data and identify strategies for optimizing user support.
-Provide users with personalized feedback based on their mental health assessment results, offering resources and recommendations for improvement.
-Primary Health Concern:
-
-Incorporate prompts or questionnaires during user interactions to identify their primary mental health concerns.
-Develop a standardized framework for categorizing and analyzing users' primary health concerns.
-Train support staff to engage users in conversations about their specific mental health challenges and needs.
-Utilize natural language processing (NLP) algorithms to analyze free-text responses and extract key themes and concerns.
-Regularly review primary health concern data to identify emerging trends and prioritize support initiatives.
-Adjust platform content, resources, and support services based on the identified primary health concerns to better meet users' needs.
-Symptom Severity Before and After Treatment:
-
-Implement pre- and post-treatment assessments to measure changes in symptom severity.
-Develop standardized assessment tools or surveys to quantify the severity of users' symptoms before and after therapy sessions.
-Ensure that therapists are trained to administer and interpret the assessment tools accurately.
-Store assessment data securely in a centralized database for analysis and comparison.
-Use statistical analysis techniques to compare pre- and post-treatment symptom severity scores and evaluate therapy effectiveness.
-Provide therapists with regular feedback on their clients' progress based on the symptom severity data.
-
 ### Resources 
 
 [](https://de.statista.com/infografik/27440/anteil-der-befragten-die-ihre-sexuelle-orientierung-wie-folgt-angeben-nach-geburtsjahr/)
@@ -104,3 +130,7 @@ Provide therapists with regular feedback on their clients' progress based on the
 [How population identifies in germany](https://de.statista.com/infografik/27440/anteil-der-befragten-die-ihre-sexuelle-orientierung-wie-folgt-angeben-nach-geburtsjahr/)
 [Data Strategy plan](https://www.phdata.io/blog/data-strategy-framework-healthcare-providers/)
 [Data Platform Architecture](https://www.y42.com/blog/data-pipeline-architecture?utm_term=&utm_campaign=Y42+%7C+Performance+Max+%7C+Leads&utm_source=adwords&utm_medium=ppc&hsa_acc=6839813425&hsa_cam=20808672417&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=Cj0KCQjw2uiwBhCXARIsACMvIU0vUIGabeqYviUciiA3NXk4DtwFDNUvuoyrqOMmw_vAgxCj6xf3igcaAhFUEALw_wcB)
+[Queer vs. Straight](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7876969/)
+[Columbia Edu database](https://www.tc.columbia.edu/go-lead/lgbtq-ngo-database/)
+[Questionare](https://www.betterhelp.com/get-started/?go=true&transaction_id=1029582d1edd773ffec4c088dfe7c7&utm_source=affiliate&utm_campaign=1339&utm_medium=macOS&utm_content=&utm_term=top10-lgbtq&not_found=1&gor=start)
+[straight vs queer](https://jamanetwork.com/journals/jamapsychiatry/fullarticle/205418#:~:text=Results%20Gay%2C%20lesbian%2C%20and%20bisexual,%2C%202.3%2D10.9)%2C%20other)
